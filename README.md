@@ -1,10 +1,8 @@
-# Django Simple E-Commerce Website with Payment
-This is a simple e-commerce website built with Django (Python) and PayPal is added as payment processor.
+# Django Media Advertisement Web Application with payment
+This is a simple web application built with Django (Python) and PayPal is added as payment processor.
+like.
 
-I've made this as a "Jewelry Shop" website but you can make any website you like.
 
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=7IQwbIYfkNI "Django Simple E-Commerce Website")
 
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
@@ -30,21 +28,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 5. See Order History
 6. Update Profile 
 7. Change Password
-8. Reset Password
-
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+8. Reset Password. 
 
 
 ## How to Install and Run this project?
@@ -61,65 +45,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 *Alternative to Pip is Homebrew*
 
-### Installation
-**1. Create a Folder where you want to save the project**
-
-**2. Create a Virtual Environment and Activate**
-
-Install Virtual Environment First
-```
-$  pip install virtualenv
-```
-
-Create Virtual Environment
-
-For Windows
-```
-$  python -m venv venv
-```
-For Mac
-```
-$  python3 -m venv venv
-```
-
-Activate Virtual Environment
-
-For Windows
-```
-$  source venv/scripts/activate
-```
-
-For Mac
-```
-$  source venv/bin/activate
-```
-
-**3. Clone this project**
-```
-$  git clone https://github.com/vijaythapa333/django-jewelry-shop.git
-```
-
-Then, Enter the project
-```
-$  cd django-jewelry-shop
-```
-
-**4. Install Requirements from 'requirements.txt'**
-```python
-$  pip install -r requirements.txt
-```
-
-**5. Add the hosts**
-
-- Got to settings.py file 
-- Then, On allowed hosts, Add [‘*’]. 
-```python
-ALLOWED_HOSTS = ['*']
-```
-*No need to change on Mac.*
-
-
-**6. Now Run Server**
+### 
+**Now Run Server**
 
 Command for PC:
 ```python
@@ -147,8 +74,4 @@ $  python3 manage.py createsuperuser
 Then Add Email, Username and Password
 
 
-
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
 
